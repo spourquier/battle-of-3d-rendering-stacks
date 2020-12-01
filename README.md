@@ -27,7 +27,7 @@ This way you may experiment with the frontend. If you want to add you own terrai
 
 In case you want to further experiment with adding your own data or with the data provided for this example, here is how you can set up your own instance of VTS Backend and replicate configuration used in this example.
 
-### Install VTS Backend and clone this repo
+### Install VTS Backend and clone this repo 
 
 You will need a recent Ubuntu LTS, all server components are then [installed through a single Debian package](http://vtsdocs.melown.com/en/latest/tutorials/vtsbackend.html#setting-vts-backend).
 
